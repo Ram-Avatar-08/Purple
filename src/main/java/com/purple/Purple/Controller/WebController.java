@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 
 
-import com.purple.Purple.entity.Customer;
+
 
 
 import org.springframework.web.bind.annotation.RequestParam;
